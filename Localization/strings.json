@@ -1,0 +1,1512 @@
+{
+  "text.000": {
+    "zh": "降序",
+    "en": "Descending",
+    "ja": "降順"
+  },
+  "text.001": {
+    "zh": "升序",
+    "en": "Ascending",
+    "ja": "昇順"
+  },
+  "text.002": {
+    "zh": "未排序",
+    "en": "Not sorted",
+    "ja": "未並べ替え"
+  },
+  "text.003": {
+    "zh": "含 ",
+    "en": "Includes ",
+    "ja": "フィルター外 "
+  },
+  "text.004": {
+    "zh": " 个筛选外项目 · 共 ",
+    "en": " hidden projects · Total ",
+    "ja": " 件を含む · 合計 "
+  },
+  "text.005": {
+    "zh": " 个",
+    "en": " items",
+    "ja": " 件"
+  },
+  "text.006": {
+    "zh": "当前文件夹 · ",
+    "en": "Current folder · ",
+    "ja": "現在のフォルダー · "
+  },
+  "text.007": {
+    "zh": " 个项目",
+    "en": " projects",
+    "ja": " 件のプロジェクト"
+  },
+  "text.008": {
+    "zh": "没有匹配的项目",
+    "en": "No matching projects",
+    "ja": "一致するプロジェクトがありません"
+  },
+  "text.009": {
+    "zh": "这个文件夹中还没有 AEP 项目",
+    "en": "No AEP projects in this folder",
+    "ja": "このフォルダーに AEP プロジェクトはありません"
+  },
+  "text.010": {
+    "zh": "换个关键词试试，已勾选的项目会保留",
+    "en": "Try another keyword. Your selections are kept.",
+    "ja": "別のキーワードを試してください。選択内容は保持されます。"
+  },
+  "text.011": {
+    "zh": "选择包含 .aep / .aepx 的文件夹开始工作",
+    "en": "Choose a folder containing .aep / .aepx files to begin.",
+    "ja": ".aep / .aepx を含むフォルダーを選択してください。"
+  },
+  "text.012": {
+    "zh": " 个渲染引擎已连接",
+    "en": " render engines connected",
+    "ja": " 個のレンダーエンジンに接続済み"
+  },
+  "text.013": {
+    "zh": "未配置渲染引擎",
+    "en": "No render engine configured",
+    "ja": "レンダーエンジン未設定"
+  },
+  "text.014": {
+    "zh": "按项目版本匹配 · ",
+    "en": "Match project version · ",
+    "ja": "プロジェクトのバージョンに合わせる · "
+  },
+  "text.015": {
+    "zh": " 个并发",
+    "en": " concurrent jobs",
+    "ja": " 件を同時実行"
+  },
+  "text.016": {
+    "zh": "前往设置连接 After Effects",
+    "en": "Connect After Effects in Settings",
+    "ja": "設定で After Effects を接続"
+  },
+  "text.017": {
+    "zh": "\" title=\"仅移除配置，不删除程序\" aria-label=\"移除 ",
+    "en": "\" title=\"Remove configuration only; keep the program\" aria-label=\"Remove ",
+    "ja": "\" title=\"設定のみ削除し、プログラムは保持\" aria-label=\"削除 "
+  },
+  "text.018": {
+    "zh": "未识别的引擎",
+    "en": "Unrecognized engine",
+    "ja": "不明なエンジン"
+  },
+  "text.019": {
+    "zh": "未知",
+    "en": "Unknown",
+    "ja": "不明"
+  },
+  "text.020": {
+    "zh": "● 可用",
+    "en": "● Available",
+    "ja": "● 使用可能"
+  },
+  "text.021": {
+    "zh": "● 路径失效 / 无法识别",
+    "en": "● Missing / unrecognized path",
+    "ja": "● パス無効 / 識別不可"
+  },
+  "text.022": {
+    "zh": "添加自定义 aerender",
+    "en": "Add a custom aerender",
+    "ja": "カスタム aerender を追加"
+  },
+  "text.023": {
+    "zh": "添加渲染引擎",
+    "en": "Add render engine",
+    "ja": "レンダーエンジンを追加"
+  },
+  "text.024": {
+    "zh": "浏览自定义安装位置",
+    "en": "Browse a custom installation",
+    "ja": "インストール先を指定"
+  },
+  "text.025": {
+    "zh": "小",
+    "en": "Small",
+    "ja": "小"
+  },
+  "text.026": {
+    "zh": "中",
+    "en": "Medium",
+    "ja": "中"
+  },
+  "text.027": {
+    "zh": "大",
+    "en": "Large",
+    "ja": "大"
+  },
+  "text.028": {
+    "zh": "请填写有效的整数",
+    "en": "Enter a valid integer.",
+    "ja": "有効な整数を入力してください。"
+  },
+  "text.029": {
+    "zh": "完成",
+    "en": "Completed",
+    "ja": "完了"
+  },
+  "text.030": {
+    "zh": "失败",
+    "en": "Failed",
+    "ja": "失敗"
+  },
+  "text.031": {
+    "zh": "选择任务查看日志；多选时显示最后选中的任务。",
+    "en": "Select a task to view its log. When multiple tasks are selected, the last one is shown.",
+    "ja": "タスクを選択するとログが表示されます。複数選択時は最後のタスクを表示します。"
+  },
+  "text.032": {
+    "zh": "等待选择任务。",
+    "en": "Waiting for a task selection.",
+    "ja": "タスクを選択してください。"
+  },
+  "text.033": {
+    "zh": "\n引擎 ",
+    "en": "\nEngine ",
+    "ja": "\nエンジン "
+  },
+  "text.034": {
+    "zh": "正在读取日志…",
+    "en": "Loading log…",
+    "ja": "ログを読み込み中…"
+  },
+  "text.035": {
+    "zh": "时 ",
+    "en": "h ",
+    "ja": "時間 "
+  },
+  "text.036": {
+    "zh": "分 ",
+    "en": "m ",
+    "ja": "分 "
+  },
+  "text.037": {
+    "zh": "秒",
+    "en": "s",
+    "ja": "秒"
+  },
+  "text.038": {
+    "zh": "等待",
+    "en": "Waiting",
+    "ja": "待機"
+  },
+  "text.039": {
+    "zh": "暂停派发",
+    "en": "Dispatch paused",
+    "ja": "ディスパッチ停止中"
+  },
+  "text.040": {
+    "zh": "自主渲染",
+    "en": "Auto render",
+    "ja": "自動レンダリング"
+  },
+  "text.041": {
+    "zh": "开启自主渲染，自动派发等待和后续加入的任务",
+    "en": "Enable auto rendering for waiting and future tasks",
+    "ja": "待機中と今後追加されるタスクの自動レンダリングを有効にする"
+  },
+  "text.042": {
+    "zh": "暂停自动派发，已运行的任务继续",
+    "en": "Pause dispatch; running tasks continue",
+    "ja": "ディスパッチを停止し、実行中のタスクは継続"
+  },
+  "text.043": {
+    "zh": "等待 ",
+    "en": "Waiting ",
+    "ja": "待機 "
+  },
+  "text.044": {
+    "zh": " · 运行 ",
+    "en": " · Running ",
+    "ja": " · 実行中 "
+  },
+  "text.045": {
+    "zh": " · 完成 ",
+    "en": " · Completed ",
+    "ja": " · 完了 "
+  },
+  "text.046": {
+    "zh": "失败 ",
+    "en": "Failed ",
+    "ja": "失敗 "
+  },
+  "text.047": {
+    "zh": "正在调度 · 仅渲染本次选中",
+    "en": "Dispatching · Selected batch only",
+    "ja": "ディスパッチ中 · 今回の選択のみ"
+  },
+  "text.048": {
+    "zh": "正在调度",
+    "en": "Dispatching",
+    "ja": "ディスパッチ中"
+  },
+  "text.049": {
+    "zh": "清空选中",
+    "en": "Clear selected",
+    "ja": "選択した履歴を削除"
+  },
+  "text.050": {
+    "zh": "删除选中",
+    "en": "Delete selected",
+    "ja": "選択項目を削除"
+  },
+  "text.051": {
+    "zh": "清空列表",
+    "en": "Clear history",
+    "ja": "履歴をクリア"
+  },
+  "text.052": {
+    "zh": "清空队列",
+    "en": "Clear queue",
+    "ja": "キューをクリア"
+  },
+  "text.053": {
+    "zh": "项目名称",
+    "en": "Project name",
+    "ja": "プロジェクト名"
+  },
+  "text.054": {
+    "zh": "状态",
+    "en": "Status",
+    "ja": "状態"
+  },
+  "text.055": {
+    "zh": "完成时间",
+    "en": "Finished at",
+    "ja": "完了日時"
+  },
+  "text.056": {
+    "zh": "渲染用时",
+    "en": "Render time",
+    "ja": "レンダリング時間"
+  },
+  "text.057": {
+    "zh": "名称",
+    "en": "Name",
+    "ja": "名前"
+  },
+  "text.058": {
+    "zh": "尝试次数",
+    "en": "Attempts",
+    "ja": "試行回数"
+  },
+  "text.059": {
+    "zh": "进度 / 信息",
+    "en": "Progress / details",
+    "ja": "進捗 / 詳細"
+  },
+  "text.060": {
+    "zh": "次",
+    "en": " attempts",
+    "ja": " 回"
+  },
+  "text.061": {
+    "zh": "还没有完成或失败的任务",
+    "en": "No completed or failed tasks yet",
+    "ja": "完了または失敗したタスクはありません"
+  },
+  "text.062": {
+    "zh": "队列为空",
+    "en": "Queue is empty",
+    "ja": "キューは空です"
+  },
+  "text.063": {
+    "zh": "正在终止所有任务",
+    "en": "Stopping all tasks",
+    "ja": "すべてのタスクを停止中"
+  },
+  "text.064": {
+    "zh": "清空完成记录",
+    "en": "Clear finished records",
+    "ja": "完了履歴をクリア"
+  },
+  "text.065": {
+    "zh": "清空渲染队列",
+    "en": "Clear render queue",
+    "ja": "レンダーキューをクリア"
+  },
+  "text.066": {
+    "zh": "删除任务",
+    "en": "Delete tasks",
+    "ja": "タスクを削除"
+  },
+  "text.067": {
+    "zh": "将清理这些完成记录。",
+    "en": "These finished records will be removed.",
+    "ja": "これらの完了履歴を削除します。"
+  },
+  "text.068": {
+    "zh": "运行中的任务会先终止，等待中的任务会移除。",
+    "en": "Running tasks will be stopped and waiting tasks removed.",
+    "ja": "実行中のタスクを停止し、待機中のタスクを削除します。"
+  },
+  "text.069": {
+    "zh": "\n项目、输出和日志文件均保留。",
+    "en": "\nProjects, outputs and log files are kept.",
+    "ja": "\nプロジェクト、出力、ログファイルは保持されます。"
+  },
+  "text.070": {
+    "zh": "退出 AEP Render",
+    "en": "Exit AEP Render",
+    "ja": "AEP Render を終了"
+  },
+  "text.071": {
+    "zh": "结束运行中的任务并退出？队列记录会保留。",
+    "en": "Stop running tasks and exit? Queue records will be kept.",
+    "ja": "実行中のタスクを停止して終了しますか？キューの履歴は保持されます。"
+  },
+  "text.072": {
+    "zh": "已添加 ",
+    "en": "Added ",
+    "ja": "追加済み: "
+  },
+  "text.073": {
+    "zh": "，保存设置后生效",
+    "en": ". Save settings to apply.",
+    "ja": "。設定を保存すると反映されます。"
+  },
+  "text.074": {
+    "zh": "扫描到 ",
+    "en": "Found ",
+    "ja": "検出: "
+  },
+  "text.075": {
+    "zh": " 个引擎，保存设置后生效",
+    "en": " engines. Save settings to apply.",
+    "ja": " 個のエンジン。設定を保存すると反映されます。"
+  },
+  "text.076": {
+    "zh": "标准路径中没有找到引擎，可点击 + 手动添加",
+    "en": "No engines found in standard locations. Click + to add one.",
+    "ja": "標準の場所にエンジンがありません。+ から追加してください。"
+  },
+  "text.077": {
+    "zh": "已加入 ",
+    "en": "Queued ",
+    "ja": "追加済み: "
+  },
+  "text.078": {
+    "zh": "所选项目已在队列中",
+    "en": "The selected projects are already queued",
+    "ja": "選択したプロジェクトはすでにキューにあります"
+  },
+  "text.079": {
+    "zh": "设置已保存",
+    "en": "Settings saved",
+    "ja": "設定を保存しました"
+  },
+  "text.080": {
+    "zh": "AEP 批量渲染",
+    "en": "AEP Batch Renderer",
+    "ja": "AEP バッチレンダリング"
+  },
+  "text.081": {
+    "zh": "批量渲染",
+    "en": "Batch Render",
+    "ja": "バッチレンダー"
+  },
+  "text.082": {
+    "zh": "项目文件",
+    "en": "Projects",
+    "ja": "プロジェクト"
+  },
+  "text.083": {
+    "zh": "渲染中心",
+    "en": "Render Center",
+    "ja": "レンダー管理"
+  },
+  "text.084": {
+    "zh": "收藏",
+    "en": "Favorites",
+    "ja": "お気に入り"
+  },
+  "text.085": {
+    "zh": "设置",
+    "en": "Settings",
+    "ja": "設定"
+  },
+  "text.086": {
+    "zh": "浏览、选择，然后交给渲染队列。",
+    "en": "Browse, select, then send to the render queue.",
+    "ja": "プロジェクトを選んでレンダーキューに追加します。"
+  },
+  "text.087": {
+    "zh": "已记住路径",
+    "en": "Folder remembered",
+    "ja": "パス保存済み"
+  },
+  "text.088": {
+    "zh": "浏览…",
+    "en": "Browse…",
+    "ja": "参照…"
+  },
+  "text.089": {
+    "zh": "仅最新版",
+    "en": "Latest only",
+    "ja": "最新版のみ"
+  },
+  "text.090": {
+    "zh": "项目尺寸",
+    "en": "Item size",
+    "ja": "項目サイズ"
+  },
+  "text.091": {
+    "zh": "版本",
+    "en": "Version",
+    "ja": "バージョン"
+  },
+  "text.092": {
+    "zh": "修改时间",
+    "en": "Modified",
+    "ja": "更新日時"
+  },
+  "text.093": {
+    "zh": "已选择",
+    "en": "Selected",
+    "ja": "選択済み"
+  },
+  "text.094": {
+    "zh": "个项目",
+    "en": "projects",
+    "ja": "件のプロジェクト"
+  },
+  "text.095": {
+    "zh": "当前文件夹 · 0 个项目",
+    "en": "Current folder · 0 projects",
+    "ja": "現在のフォルダー · 0 件のプロジェクト"
+  },
+  "text.096": {
+    "zh": "选择全部",
+    "en": "Select all",
+    "ja": "すべて選択"
+  },
+  "text.097": {
+    "zh": "取消全部",
+    "en": "Deselect all",
+    "ja": "選択を解除"
+  },
+  "text.098": {
+    "zh": "加入队列",
+    "en": "Add to queue",
+    "ja": "キューに追加"
+  },
+  "text.099": {
+    "zh": "开始渲染",
+    "en": "Start rendering",
+    "ja": "レンダリング開始"
+  },
+  "text.100": {
+    "zh": "设置的更新将用于保存后新加入队列的项目",
+    "en": "Settings apply to projects added to the queue later.",
+    "ja": "設定は、以後キューに追加するプロジェクトに適用されます。"
+  },
+  "text.101": {
+    "zh": "通用",
+    "en": "General",
+    "ja": "一般"
+  },
+  "text.102": {
+    "zh": "高级",
+    "en": "Advanced",
+    "ja": "詳細"
+  },
+  "text.103": {
+    "zh": "文字与界面尺寸",
+    "en": "Text and interface size",
+    "ja": "文字と画面のサイズ"
+  },
+  "text.104": {
+    "zh": "控件随窗口缩放，选择你习惯的基础大小。",
+    "en": "Controls scale with the window. Choose your preferred base size.",
+    "ja": "ウィンドウに合わせて拡大縮小します。基本サイズを選択してください。"
+  },
+  "text.105": {
+    "zh": "跟随系统",
+    "en": "Follow system",
+    "ja": "システムに合わせる"
+  },
+  "text.106": {
+    "zh": "自动使用 Windows 的亮色或暗色外观。",
+    "en": "Use the Windows light or dark appearance automatically.",
+    "ja": "Windows のライト / ダーク設定に自動で合わせます。"
+  },
+  "text.107": {
+    "zh": "亮色模式",
+    "en": "Light mode",
+    "ja": "ライトモード"
+  },
+  "text.108": {
+    "zh": "暗色模式",
+    "en": "Dark mode",
+    "ja": "ダークモード"
+  },
+  "text.109": {
+    "zh": "显示最近访问",
+    "en": "Show recent folders",
+    "ja": "最近のフォルダーを表示"
+  },
+  "text.110": {
+    "zh": "在左侧保留最近打开的项目文件夹。",
+    "en": "Keep recently opened project folders in the sidebar.",
+    "ja": "最近開いたプロジェクトフォルダーを左側に表示します。"
+  },
+  "text.111": {
+    "zh": "清空队列时显示提示",
+    "en": "Confirm before clearing queue",
+    "ja": "キューをクリアする前に確認"
+  },
+  "text.112": {
+    "zh": "与确认窗口中的“下次不再显示”同步。",
+    "en": "Synced with “Don't show again” in the confirmation dialog.",
+    "ja": "確認ダイアログの「次回から表示しない」と連動します。"
+  },
+  "text.113": {
+    "zh": "清空完成列表时显示提示",
+    "en": "Confirm before clearing history",
+    "ja": "完了履歴をクリアする前に確認"
+  },
+  "text.114": {
+    "zh": "与完成列表确认窗口中的“下次不再显示”同步。",
+    "en": "Synced with “Don't show again” in the history confirmation.",
+    "ja": "完了履歴の確認ダイアログの「次回から表示しない」と連動します。"
+  },
+  "text.115": {
+    "zh": "渲染引擎",
+    "en": "Render engines",
+    "ja": "レンダーエンジン"
+  },
+  "text.116": {
+    "zh": "渲染前读取项目 AE 版本，自动匹配同一大版本。",
+    "en": "Match the project's AE major version before rendering.",
+    "ja": "レンダリング前に同じ AE メジャーバージョンを選択します。"
+  },
+  "text.117": {
+    "zh": "重新扫描",
+    "en": "Scan again",
+    "ja": "再スキャン"
+  },
+  "text.118": {
+    "zh": "未找到对应版本时会提示失败，不跨版本替换。添加或移除后点击“保存设置”生效。",
+    "en": "Missing versions fail instead of using another AE version. Save settings after adding or removing engines.",
+    "ja": "対応バージョンがない場合は失敗とし、別バージョンは使用しません。追加・削除後は設定を保存してください。"
+  },
+  "text.119": {
+    "zh": "合成与输出",
+    "en": "Composition and output",
+    "ja": "コンポジションと出力"
+  },
+  "text.120": {
+    "zh": "输出文件夹",
+    "en": "Output folder",
+    "ja": "出力フォルダー"
+  },
+  "text.121": {
+    "zh": "仅更换输出目录，沿用 AEP 渲染队列、文件名与输出格式。原项目不变；已有同名文件时停止并提示。",
+    "en": "Change only the output folder. Keep the AEP queue, filenames and formats. The source project stays unchanged; existing names stop the task.",
+    "ja": "出力先のみ変更し、AEP のキュー・ファイル名・形式を保持します。元のプロジェクトは変更せず、同名ファイルがある場合は停止します。"
+  },
+  "text.122": {
+    "zh": "执行与重试",
+    "en": "Execution and retries",
+    "ja": "実行と再試行"
+  },
+  "text.123": {
+    "zh": "同时运行的项目",
+    "en": "Concurrent projects",
+    "ja": "同時実行するプロジェクト数"
+  },
+  "text.124": {
+    "zh": "建议从 1 开始，更多任务需要更多内存。",
+    "en": "Start with 1. More tasks require more memory.",
+    "ja": "まずは 1 を推奨します。同時実行数を増やすとメモリ使用量も増えます。"
+  },
+  "text.125": {
+    "zh": "失败重试次数",
+    "en": "Retry count",
+    "ja": "再試行回数"
+  },
+  "text.126": {
+    "zh": "重试间隔 · 秒",
+    "en": "Retry delay · seconds",
+    "ja": "再試行の間隔 · 秒"
+  },
+  "text.127": {
+    "zh": "单次超时 · 分钟",
+    "en": "Attempt timeout · minutes",
+    "ja": "試行ごとのタイムアウト · 分"
+  },
+  "text.128": {
+    "zh": "0 表示不限制。",
+    "en": "0 means unlimited.",
+    "ja": "0 は無制限です。"
+  },
+  "text.129": {
+    "zh": "所有设置仅保存在本机",
+    "en": "All settings are stored on this computer",
+    "ja": "設定はこのコンピューターに保存されます"
+  },
+  "text.130": {
+    "zh": "取消",
+    "en": "Cancel",
+    "ja": "キャンセル"
+  },
+  "text.131": {
+    "zh": "保存设置",
+    "en": "Save settings",
+    "ja": "設定を保存"
+  },
+  "text.132": {
+    "zh": "等待 0 · 运行 0 · 完成 0 ·",
+    "en": "Waiting 0 · Running 0 · Completed 0 ·",
+    "ja": "待機 0 · 実行中 0 · 完了 0 ·"
+  },
+  "text.133": {
+    "zh": "失败 0",
+    "en": "Failed 0",
+    "ja": "失敗 0"
+  },
+  "text.134": {
+    "zh": "渲染队列",
+    "en": "Render queue",
+    "ja": "レンダーキュー"
+  },
+  "text.135": {
+    "zh": "完成列表",
+    "en": "History",
+    "ja": "完了履歴"
+  },
+  "text.136": {
+    "zh": "终止全部",
+    "en": "Stop all",
+    "ja": "すべて停止"
+  },
+  "text.137": {
+    "zh": "渲染选中",
+    "en": "Render selected",
+    "ja": "選択項目をレンダリング"
+  },
+  "text.138": {
+    "zh": "日志文件夹",
+    "en": "Log folder",
+    "ja": "ログフォルダー"
+  },
+  "text.139": {
+    "zh": "选择任务查看日志。",
+    "en": "Select a task to view its log.",
+    "ja": "タスクを選択するとログが表示されます。"
+  },
+  "text.140": {
+    "zh": "上移到顶",
+    "en": "Move to top",
+    "ja": "先頭へ移動"
+  },
+  "text.141": {
+    "zh": "下移到底",
+    "en": "Move to bottom",
+    "ja": "末尾へ移動"
+  },
+  "text.142": {
+    "zh": "返回项目",
+    "en": "Back to projects",
+    "ja": "プロジェクトに戻る"
+  },
+  "text.143": {
+    "zh": "确认操作",
+    "en": "Confirm action",
+    "ja": "操作の確認"
+  },
+  "text.144": {
+    "zh": "下次不再显示",
+    "en": "Don't show again",
+    "ja": "次回から表示しない"
+  },
+  "text.145": {
+    "zh": "确认",
+    "en": "Confirm",
+    "ja": "確認"
+  },
+  "text.147": {
+    "zh": "本软件开源免费发布\n作者：yuzhou-2023@foxmail.com（Copyright (C) 2026）\n使用和修改请遵守协议：GPL-3.0-only\nhttps://www.gnu.org/licenses/gpl-3.0.html",
+    "en": "This software is open source and distributed free of charge\nCopyright (C) 2026 yuzhou-2023@foxmail.com\nGNU GPL v3 only (GPL-3.0-only)\nhttps://www.gnu.org/licenses/gpl-3.0.html",
+    "ja": "本ソフトウェアはオープンソースとして無償公開されています\n作者：yuzhou-2023@foxmail.com（Copyright (C) 2026）\n使用・変更は GPL-3.0-only に従ってください\nhttps://www.gnu.org/licenses/gpl-3.0.html"
+  },
+  "text.148": {
+    "zh": "版本 3.8.9",
+    "en": "Version 3.8.9",
+    "ja": "バージョン 3.8.9"
+  },
+  "text.149": {
+    "zh": "关闭",
+    "en": "Close",
+    "ja": "閉じる"
+  },
+  "text.150": {
+    "zh": "作者信息 · 左键或右键",
+    "en": "Author info · Left or right click",
+    "ja": "作者情報 · 左または右クリック"
+  },
+  "text.151": {
+    "zh": "查看作者信息",
+    "en": "View author information",
+    "ja": "作者情報を表示"
+  },
+  "text.152": {
+    "zh": "打开高级设置 · 渲染引擎",
+    "en": "Open Advanced · Render engines",
+    "ja": "詳細設定 · レンダーエンジンを開く"
+  },
+  "text.153": {
+    "zh": "打开渲染引擎设置",
+    "en": "Open render engine settings",
+    "ja": "レンダーエンジン設定を開く"
+  },
+  "text.154": {
+    "zh": "后退 · Alt+←",
+    "en": "Back · Alt+←",
+    "ja": "戻る · Alt+←"
+  },
+  "text.155": {
+    "zh": "前进 · Alt+→",
+    "en": "Forward · Alt+→",
+    "ja": "進む · Alt+→"
+  },
+  "text.156": {
+    "zh": "上一级",
+    "en": "Up one level",
+    "ja": "上の階層へ"
+  },
+  "text.157": {
+    "zh": "项目文件夹路径",
+    "en": "Project folder path",
+    "ja": "プロジェクトフォルダーのパス"
+  },
+  "text.158": {
+    "zh": "刷新 · F5",
+    "en": "Refresh · F5",
+    "ja": "更新 · F5"
+  },
+  "text.159": {
+    "zh": "在资源管理器中打开",
+    "en": "Open in File Explorer",
+    "ja": "エクスプローラーで開く"
+  },
+  "text.160": {
+    "zh": "搜索项目",
+    "en": "Search projects",
+    "ja": "プロジェクトを検索"
+  },
+  "text.161": {
+    "zh": "搜索项目名称…",
+    "en": "Search project names…",
+    "ja": "プロジェクト名を検索…"
+  },
+  "text.162": {
+    "zh": "清空搜索",
+    "en": "Clear search",
+    "ja": "検索をクリア"
+  },
+  "text.163": {
+    "zh": "项目显示尺寸",
+    "en": "Project item size",
+    "ja": "プロジェクト項目のサイズ"
+  },
+  "text.164": {
+    "zh": "详细信息",
+    "en": "Details view",
+    "ja": "詳細表示"
+  },
+  "text.165": {
+    "zh": "大图标",
+    "en": "Large icons",
+    "ja": "大アイコン"
+  },
+  "text.166": {
+    "zh": "AEP 文件浏览",
+    "en": "AEP file browser",
+    "ja": "AEP ファイルブラウザー"
+  },
+  "text.167": {
+    "zh": "调整名称与版本列宽",
+    "en": "Resize name and version columns",
+    "ja": "名前列とバージョン列の幅を調整"
+  },
+  "text.168": {
+    "zh": "调整版本与修改时间列宽",
+    "en": "Resize version and modified columns",
+    "ja": "バージョン列と更新日時列の幅を調整"
+  },
+  "text.169": {
+    "zh": "关闭设置",
+    "en": "Close settings",
+    "ja": "設定を閉じる"
+  },
+  "text.170": {
+    "zh": "设置分类",
+    "en": "Settings categories",
+    "ja": "設定のカテゴリー"
+  },
+  "text.171": {
+    "zh": "跟随系统主题",
+    "en": "Follow system theme",
+    "ja": "システムのテーマに合わせる"
+  },
+  "text.172": {
+    "zh": "手动选择主题",
+    "en": "Choose theme manually",
+    "ja": "テーマを手動で選択"
+  },
+  "text.173": {
+    "zh": "已配置的 AE 渲染引擎",
+    "en": "Configured AE render engines",
+    "ja": "設定済みの AE レンダーエンジン"
+  },
+  "text.174": {
+    "zh": "留空，使用项目内的输出位置",
+    "en": "Leave blank to use the project's output location",
+    "ja": "空欄の場合はプロジェクトの出力先を使用"
+  },
+  "text.175": {
+    "zh": "渲染中心分类",
+    "en": "Render Center categories",
+    "ja": "レンダーセンターのカテゴリー"
+  },
+  "text.176": {
+    "zh": "关闭作者信息",
+    "en": "Close author information",
+    "ja": "作者情報を閉じる"
+  },
+  "text.177": {
+    "zh": "启动失败",
+    "en": "Startup failed",
+    "ja": "起動に失敗しました"
+  },
+  "text.178": {
+    "zh": "网页界面无法启动：",
+    "en": "Unable to start the web interface: ",
+    "ja": "Web 画面を起動できません: "
+  },
+  "text.179": {
+    "zh": "\n请确认已安装 Microsoft Edge WebView2 Runtime。",
+    "en": "\nCheck that Microsoft Edge WebView2 Runtime is installed.",
+    "ja": "\nMicrosoft Edge WebView2 Runtime がインストールされているか確認してください。"
+  },
+  "text.180": {
+    "zh": "自动刷新／本机接口：",
+    "en": "Auto refresh / local interface: ",
+    "ja": "自動更新 / ローカルインターフェイス: "
+  },
+  "text.181": {
+    "zh": "select 的 paths 必须是当前文件夹中的项目完整路径。",
+    "en": "The select paths must be full project paths in the current folder.",
+    "ja": "select の paths は現在のフォルダーにあるプロジェクトの完全パスである必要があります。"
+  },
+  "text.182": {
+    "zh": "一次提交 1–100 个项目。",
+    "en": "Submit 1–100 projects at a time.",
+    "ja": "一度に 1～100 個のプロジェクトを送信してください。"
+  },
+  "text.183": {
+    "zh": "只接受存在的 AEP/AEPX 完整路径。",
+    "en": "Only existing AEP/AEPX full paths are accepted.",
+    "ja": "存在する AEP/AEPX の完全パスのみ使用できます。"
+  },
+  "text.184": {
+    "zh": "未知接口动作；支持 status、refresh、open、select、enqueue。",
+    "en": "Unknown action. Supported: status, refresh, open, select, enqueue.",
+    "ja": "不明なアクションです。対応: status、refresh、open、select、enqueue。"
+  },
+  "text.185": {
+    "zh": "选择 AEP 项目文件夹",
+    "en": "Select an AEP project folder",
+    "ja": "AEP プロジェクトフォルダーを選択"
+  },
+  "text.186": {
+    "zh": "列宽无效",
+    "en": "Invalid column widths",
+    "ja": "列幅が無効です"
+  },
+  "text.187": {
+    "zh": "请先勾选需要渲染的项目。",
+    "en": "Select projects to render first.",
+    "ja": "レンダリングするプロジェクトを選択してください。"
+  },
+  "text.188": {
+    "zh": "请先在设置中选择 aerender.exe。",
+    "en": "Choose aerender.exe in Settings first.",
+    "ja": "設定で aerender.exe を選択してください。"
+  },
+  "text.189": {
+    "zh": "AE 渲染引擎|aerender.exe",
+    "en": "AE render engine|aerender.exe",
+    "ja": "AE レンダーエンジン|aerender.exe"
+  },
+  "text.190": {
+    "zh": "选择渲染输出文件夹",
+    "en": "Select render output folder",
+    "ja": "レンダリング出力フォルダーを選択"
+  },
+  "text.191": {
+    "zh": "并发任务数须在 1–4 之间。",
+    "en": "Concurrency must be between 1 and 4.",
+    "ja": "同時実行数は 1～4 にしてください。"
+  },
+  "text.192": {
+    "zh": "尚未生成日志。",
+    "en": "No log yet.",
+    "ja": "ログはまだありません。"
+  },
+  "text.193": {
+    "zh": "（显示末尾；完整内容请打开日志文件夹）\n",
+    "en": "(Showing the tail; open the log folder for the full file)\n",
+    "ja": "（末尾を表示しています。全文はログフォルダーで確認できます）\n"
+  },
+  "text.194": {
+    "zh": "知道了",
+    "en": "OK",
+    "ja": "OK"
+  },
+  "text.197": {
+    "zh": "无法启动",
+    "en": "Unable to start",
+    "ja": "起動できません"
+  },
+  "text.198": {
+    "zh": "输出文件夹必须是完整路径。",
+    "en": "Output folder must be an absolute path.",
+    "ja": "出力フォルダーは完全パスで指定してください。"
+  },
+  "text.199": {
+    "zh": "重试或超时设置超出范围。",
+    "en": "Retry or timeout settings are out of range.",
+    "ja": "再試行またはタイムアウトの設定が範囲外です。"
+  },
+  "text.200": {
+    "zh": "等待调度",
+    "en": "Waiting for dispatch",
+    "ja": "ディスパッチ待ち"
+  },
+  "text.201": {
+    "zh": "运行",
+    "en": "Running",
+    "ja": "実行中"
+  },
+  "text.202": {
+    "zh": "重试等待",
+    "en": "Retry pending",
+    "ja": "再試行待ち"
+  },
+  "text.203": {
+    "zh": "正在取消",
+    "en": "Cancelling",
+    "ja": "キャンセル中"
+  },
+  "text.204": {
+    "zh": "读取 ",
+    "en": "Reading ",
+    "ja": "読み込み中: "
+  },
+  "text.205": {
+    "zh": " 失败，已保留原文件并尝试备份：",
+    "en": " failed; original kept and backup attempted: ",
+    "ja": " に失敗しました。元のファイルを保持してバックアップを試みました: "
+  },
+  "text.206": {
+    "zh": "没有可渲染",
+    "en": "Nothing to render",
+    "ja": "レンダリング対象がありません"
+  },
+  "text.207": {
+    "zh": "输出模块失败",
+    "en": "Output module failed",
+    "ja": "出力モジュールに失敗しました"
+  },
+  "text.208": {
+    "zh": "中断",
+    "en": "Interrupted",
+    "ja": "中断"
+  },
+  "text.209": {
+    "zh": "上次退出时中断；请从项目页重新加入",
+    "en": "Interrupted when the app last closed. Add the project again.",
+    "ja": "前回終了時に中断しました。プロジェクトを再度追加してください。"
+  },
+  "text.210": {
+    "zh": "队列保存失败，已暂停调度：",
+    "en": "Queue save failed; dispatch paused: ",
+    "ja": "キューを保存できず、ディスパッチを停止しました: "
+  },
+  "text.211": {
+    "zh": "请先选择待渲染的任务。",
+    "en": "Select waiting tasks first.",
+    "ja": "待機中のタスクを選択してください。"
+  },
+  "text.212": {
+    "zh": "未启动",
+    "en": "Not started",
+    "ja": "未開始"
+  },
+  "text.213": {
+    "zh": "项目文件不存在：",
+    "en": "Project file not found: ",
+    "ja": "プロジェクトファイルが見つかりません: "
+  },
+  "text.214": {
+    "zh": "检查项目 AE 版本…",
+    "en": "Checking project AE version…",
+    "ja": "プロジェクトの AE バージョンを確認中…"
+  },
+  "text.215": {
+    "zh": "[{0}] 项目 AE {1} → 引擎 {2}：{3}",
+    "en": "[{0}] Project AE {1} → engine {2}: {3}",
+    "ja": "[{0}] プロジェクト AE {1} → エンジン {2}: {3}"
+  },
+  "text.216": {
+    "zh": "准备输出目录…",
+    "en": "Preparing output folder…",
+    "ja": "出力フォルダーを準備中…"
+  },
+  "text.217": {
+    "zh": "启动 AE…",
+    "en": "Starting AE…",
+    "ja": "AE を起動中…"
+  },
+  "text.218": {
+    "zh": "[{0}] 第 {1} 次执行：{2} {3}",
+    "en": "[{0}] Attempt {1}: {2} {3}",
+    "ja": "[{0}] 試行 {1}: {2} {3}"
+  },
+  "text.219": {
+    "zh": "渲染完成",
+    "en": "Render completed",
+    "ja": "レンダリング完了"
+  },
+  "text.220": {
+    "zh": "达到单次任务超时限制",
+    "en": "Attempt timeout reached",
+    "ja": "試行のタイムアウトに達しました"
+  },
+  "text.221": {
+    "zh": "aerender 退出代码 ",
+    "en": "aerender exit code ",
+    "ja": "aerender 終了コード "
+  },
+  "text.222": {
+    "zh": "[{0}] 失败：{1}",
+    "en": "[{0}] Failed: {1}",
+    "ja": "[{0}] 失敗: {1}"
+  },
+  "text.223": {
+    "zh": "查看日志",
+    "en": "View log",
+    "ja": "ログを確認"
+  },
+  "text.224": {
+    "zh": " 秒后重试",
+    "en": " seconds until retry",
+    "ja": " 秒後に再試行"
+  },
+  "text.225": {
+    "zh": "进程已结束",
+    "en": "Process ended",
+    "ja": "プロセス終了"
+  },
+  "text.226": {
+    "zh": "需要再次渲染时，请从项目页重新加入",
+    "en": "Add the project again to render it another time.",
+    "ja": "再度レンダリングする場合はプロジェクトを追加し直してください。"
+  },
+  "text.227": {
+    "zh": "执行失败",
+    "en": "Execution failed",
+    "ja": "実行に失敗しました"
+  },
+  "text.228": {
+    "zh": "请选择实际的 aerender.exe，不能用目录名指定版本。",
+    "en": "Select an actual aerender.exe; folder names cannot specify versions.",
+    "ja": "実際の aerender.exe を選択してください。フォルダー名でバージョンを指定できません。"
+  },
+  "text.229": {
+    "zh": "引擎文件不存在：",
+    "en": "Engine file not found: ",
+    "ja": "エンジンファイルが見つかりません: "
+  },
+  "text.230": {
+    "zh": "无法从该程序的文件版本信息识别 Adobe After Effects 引擎。",
+    "en": "Cannot identify an Adobe After Effects engine from this executable's version metadata.",
+    "ja": "実行ファイルのバージョン情報から Adobe After Effects エンジンを識別できません。"
+  },
+  "text.231": {
+    "zh": "项目为 ",
+    "en": "Project uses ",
+    "ja": "プロジェクトは "
+  },
+  "text.232": {
+    "zh": "），没有可用的同版本",
+    "en": "); no matching version of",
+    "ja": "）です。同じバージョンの"
+  },
+  "text.233": {
+    "zh": " aerender。请在高级设置中添加后重试；不会改用其他 AE。",
+    "en": " aerender is available. Add it in Advanced settings and retry. Other AE versions will not be used.",
+    "ja": " aerender がありません。詳細設定で追加して再試行してください。別の AE バージョンは使用しません。"
+  },
+  "text.234": {
+    "zh": "无法打开该文件夹，请检查路径是否存在。",
+    "en": "Cannot open this folder. Check that the path exists.",
+    "ja": "フォルダーを開けません。パスが存在するか確認してください。"
+  },
+  "text.235": {
+    "zh": "无法识别项目 AE 版本：不是受支持的 RIFX AEP 文件。",
+    "en": "Cannot identify project AE version: unsupported RIFX AEP file.",
+    "ja": "AE バージョンを識別できません。対応する RIFX AEP ではありません。"
+  },
+  "text.236": {
+    "zh": "AEP 文件头损坏或项目尚未保存完成。",
+    "en": "AEP header is damaged or the project is not fully saved.",
+    "ja": "AEP ヘッダーが破損しているか、保存が完了していません。"
+  },
+  "text.237": {
+    "zh": "AEP 数据块超出文件范围，请重新保存项目。",
+    "en": "AEP data block is out of range. Save the project again.",
+    "ja": "AEP データブロックが範囲外です。再保存してください。"
+  },
+  "text.238": {
+    "zh": "AEP 版本数据块长度异常。",
+    "en": "Invalid AEP version block length.",
+    "ja": "AEP バージョンブロックの長さが無効です。"
+  },
+  "text.239": {
+    "zh": "未找到 AEP 的版本信息，不会猜测或换用其他 AE。",
+    "en": "AEP version metadata not found. No other AE version will be guessed.",
+    "ja": "AEP のバージョン情報がありません。別バージョンを推測して使用しません。"
+  },
+  "text.240": {
+    "zh": "AEPX 版本信息不完整。",
+    "en": "AEPX version metadata is incomplete.",
+    "ja": "AEPX のバージョン情報が不完全です。"
+  },
+  "text.241": {
+    "zh": "未找到 AEPX 版本信息。",
+    "en": "AEPX version metadata not found.",
+    "ja": "AEPX のバージョン情報がありません。"
+  },
+  "text.242": {
+    "zh": "版本头不完整。",
+    "en": "Incomplete version header.",
+    "ja": "バージョンヘッダーが不完全です。"
+  },
+  "text.243": {
+    "zh": "项目版本信息未知或不一致（格式 ",
+    "en": "Unknown or inconsistent project version (format ",
+    "ja": "プロジェクトのバージョンが不明または不整合です（形式 "
+  },
+  "text.244": {
+    "zh": "，保存版本 ",
+    "en": ", saved version ",
+    "ja": "、保存バージョン "
+  },
+  "text.245": {
+    "zh": "）；请用目标 AE 正常保存后重试。",
+    "en": "). Save normally in the target AE version and retry.",
+    "ja": "）。対象の AE で正常に保存して再試行してください。"
+  },
+  "text.246": {
+    "zh": "多个输出模块使用相同文件名，请先在 AE 中设置不同文件名：",
+    "en": "Output modules share a filename. Set unique filenames in AE first: ",
+    "ja": "複数の出力モジュールが同名です。AE で異なるファイル名を設定してください: "
+  },
+  "text.247": {
+    "zh": "输出已存在，请选择其他输出文件夹或先移走同名文件：",
+    "en": "Output already exists. Choose another folder or move existing files: ",
+    "ja": "出力先に同名ファイルがあります。別のフォルダーを選ぶか既存ファイルを移動してください: "
+  },
+  "text.248": {
+    "zh": "更换输出目录需要同版本 AfterFX.exe：",
+    "en": "Changing the output folder requires the matching AfterFX.exe: ",
+    "ja": "出力先の変更には同じバージョンの AfterFX.exe が必要です: "
+  },
+  "text.249": {
+    "zh": "准备输出目录超时，请检查 AE 是否能够正常打开该项目。",
+    "en": "Output preparation timed out. Check that AE can open this project.",
+    "ja": "出力先の準備がタイムアウトしました。AE でプロジェクトを開けるか確認してください。"
+  },
+  "text.250": {
+    "zh": "准备输出目录失败，AfterFX 退出代码：",
+    "en": "Output preparation failed; AfterFX exit code: ",
+    "ja": "出力先の準備に失敗しました。AfterFX 終了コード: "
+  },
+  "text.251": {
+    "zh": "AE 未返回输出目录准备结果，请检查 AE 的脚本文件写入权限。",
+    "en": "AE returned no preparation result. Check script file write permissions.",
+    "ja": "AE から準備結果が返されませんでした。スクリプトのファイル書き込み権限を確認してください。"
+  },
+  "text.252": {
+    "zh": "准备输出目录失败：",
+    "en": "Output preparation failed: ",
+    "ja": "出力先の準備に失敗しました: "
+  },
+  "text.253": {
+    "zh": "AE 未生成用于渲染的临时项目。",
+    "en": "AE did not create the temporary render project.",
+    "ja": "AE がレンダリング用の一時プロジェクトを作成しませんでした。"
+  },
+  "text.254": {
+    "zh": "无法记录 AE 日志目录，保留该目录：",
+    "en": "Cannot snapshot the AE log folder; leaving it unchanged: ",
+    "ja": "AE ログフォルダーを記録できないため保持します: "
+  },
+  "text.255": {
+    "zh": "未能清理 AE 日志 ",
+    "en": "Could not remove AE log ",
+    "ja": "AE ログを削除できません: "
+  },
+  "text.256": {
+    "zh": "已清理本次 AE 渲染日志：",
+    "en": "Removed new AE render logs: ",
+    "ja": "今回の AE レンダーログを削除しました: "
+  },
+  "text.257": {
+    "zh": " 个文件。",
+    "en": " files.",
+    "ja": " ファイル。"
+  },
+  "text.258": {
+    "zh": "未能清理 AE 日志目录：",
+    "en": "Could not clean AE log folder: ",
+    "ja": "AE ログフォルダーをクリーンアップできません: "
+  },
+  "text.259": {
+    "zh": "选择此文件夹",
+    "en": "Select this folder",
+    "ja": "このフォルダーを選択"
+  },
+  "language.label": {
+    "zh": "语言",
+    "en": "Language",
+    "ja": "言語"
+  },
+  "language.help": {
+    "zh": "预览界面语言，保存设置后生效。",
+    "en": "Preview the interface language. Save settings to keep it.",
+    "ja": "表示言語をプレビューします。設定を保存すると保持されます。"
+  },
+  "language.zh": {
+    "zh": "中文",
+    "en": "中文",
+    "ja": "中文"
+  },
+  "language.en": {
+    "zh": "English",
+    "en": "English",
+    "ja": "English"
+  },
+  "language.ja": {
+    "zh": "日本語",
+    "en": "日本語",
+    "ja": "日本語"
+  },
+  "engine.removeHelp": {
+    "zh": "仅移除配置，不删除程序",
+    "en": "Remove configuration only; keep the program",
+    "ja": "設定のみ削除し、プログラムは保持"
+  },
+  "engine.remove": {
+    "zh": "移除 ",
+    "en": "Remove ",
+    "ja": "削除 "
+  },
+  "process.error": {
+    "zh": "无法管理渲染进程树，已停止本次任务。",
+    "en": "Unable to manage the render process tree. This task was stopped.",
+    "ja": "レンダリングのプロセスツリーを管理できないため、タスクを停止しました。"
+  },
+  "output.noFilename": {
+    "zh": "渲染队列中的输出模块尚未设置文件名。",
+    "en": "A queued output module has no filename.",
+    "ja": "キュー内の出力モジュールにファイル名がありません。"
+  },
+  "output.noQueue": {
+    "zh": "项目没有已勾选的待渲染队列项，请先在 AE 设置渲染队列并保存。",
+    "en": "No enabled waiting render items. Set up the queue in AE and save the project.",
+    "ja": "有効な待機項目がありません。AE でレンダーキューを設定し、プロジェクトを保存してください。"
+  },
+  "sort.description": {
+    "zh": "{0}：{1}；点击{2}",
+    "en": "{0}: {1}; click for {2}",
+    "ja": "{0}: {1}。クリックで{2}"
+  },
+  "files.hidden": {
+    "zh": "含 {0} 个筛选外项目 · 共 {1} 个",
+    "en": "Includes {0} hidden projects · {1} total",
+    "ja": "フィルター外 {0} 件を含む · 合計 {1} 件"
+  },
+  "files.count": {
+    "zh": "当前文件夹 · {0} 个项目",
+    "en": "Current folder · {0} projects",
+    "ja": "現在のフォルダー · {0} 件"
+  },
+  "engine.count": {
+    "zh": "{0} 个渲染引擎已连接",
+    "en": "Connected render engines: {0}",
+    "ja": "{0} 個のレンダーエンジンに接続済み"
+  },
+  "engine.concurrency": {
+    "zh": "按项目版本匹配 · {0} 个并发",
+    "en": "Match project version · concurrency: {0}",
+    "ja": "プロジェクトのバージョンに合わせる · {0} 件を同時実行"
+  },
+  "engine.found": {
+    "zh": "扫描到 {0} 个引擎，保存设置后生效",
+    "en": "Found {0} engines. Save settings to apply.",
+    "ja": "{0} 個のエンジンを検出しました。設定を保存すると反映されます。"
+  },
+  "queue.added": {
+    "zh": "已加入 {0} 个项目",
+    "en": "Queued {0} projects",
+    "ja": "{0} 件をキューに追加しました"
+  },
+  "queue.attempts": {
+    "zh": "{0} 次",
+    "en": "{0} attempts",
+    "ja": "{0} 回"
+  },
+  "extra.278": {
+    "zh": "；点击",
+    "en": "; click for ",
+    "ja": "。クリックで"
+  },
+  "brand.workspace": {
+    "zh": "渲染工作区",
+    "en": "RENDER WORKSPACE",
+    "ja": "レンダーワークスペース"
+  },
+  "brand.name": {
+    "zh": "AEP Render",
+    "en": "AEP Render",
+    "ja": "AEP Render"
+  },
+  "brand.short": {
+    "zh": "Ae Render",
+    "en": "Ae Render",
+    "ja": "Ae Render"
+  },
+  "brand.version": {
+    "zh": "AEP RENDER · 3.8.8",
+    "en": "AEP RENDER · 3.8.8",
+    "ja": "AEP RENDER · 3.8.8"
+  },
+  "history.requeue": {
+    "zh": "重入队列",
+    "en": "Requeue",
+    "ja": "再キュー"
+  },
+  "history.requeued": {
+    "zh": "重入队列",
+    "en": "Requeued",
+    "ja": "再キュー済み"
+  },
+  "history.requeuedToast": {
+    "zh": "已重入 {0} 个项目",
+    "en": "Requeued {0} projects",
+    "ja": "{0} 件を再キューしました"
+  },
+  "queue.holdSelected": {
+    "zh": "搁置选中",
+    "en": "Hold selected",
+    "ja": "選択を保留"
+  },
+  "queue.resumeSelected": {
+    "zh": "恢复等待",
+    "en": "Resume waiting",
+    "ja": "待機に戻す"
+  },
+  "queue.held": {
+    "zh": "已搁置",
+    "en": "On hold",
+    "ja": "保留中"
+  },
+  "queue.heldProgress": {
+    "zh": "已停止后续派发",
+    "en": "Removed from dispatch",
+    "ja": "ディスパッチを停止しました"
+  },
+  "queue.waitingProgress": {
+    "zh": "等待调度",
+    "en": "Waiting for dispatch",
+    "ja": "ディスパッチ待機中"
+  },
+  "queue.selectedPending": {
+    "zh": "待渲染",
+    "en": "Ready to render",
+    "ja": "レンダリング待ち"
+  },
+  "queue.selectedPendingProgress": {
+    "zh": "已加入本次渲染选中批次",
+    "en": "Added to the selected render batch",
+    "ja": "今回の選択レンダリングに追加済み"
+  },
+  "status.cancelled": {
+    "zh": "取消",
+    "en": "Cancelled",
+    "ja": "キャンセル済み"
+  },
+  "bridge.size": {
+    "zh": "请求超过 64 KB。",
+    "en": "Request exceeds 64 KB.",
+    "ja": "リクエストが 64 KB を超えています。"
+  },
+  "bridge.expiryMissing": {
+    "zh": "缺少 expiresUtc。",
+    "en": "Missing expiresUtc.",
+    "ja": "expiresUtc がありません。"
+  },
+  "favorite.add": {
+    "zh": "收藏当前文件夹",
+    "en": "Add current folder to favorites",
+    "ja": "現在のフォルダーをお気に入りに追加"
+  },
+  "favorite.remove": {
+    "zh": "取消收藏当前文件夹",
+    "en": "Remove current folder from favorites",
+    "ja": "現在のフォルダーをお気に入りから削除"
+  },
+  "favorite.empty": {
+    "zh": "暂无收藏",
+    "en": "No favorites yet",
+    "ja": "お気に入りはまだありません"
+  },
+  "folder.recursive": {
+    "zh": "文件夹穿透",
+    "en": "Include subfolders",
+    "ja": "サブフォルダーも検索"
+  },
+  "bridge.expired": {
+    "zh": "请求已过期或期限超过两分钟。",
+    "en": "Request expired or expiry exceeds two minutes.",
+    "ja": "リクエストの有効期限が切れているか、期限が 2 分を超えています。"
+  },
+  "instructions.tab": {
+    "zh": "说明",
+    "en": "Instructions",
+    "ja": "説明"
+  },
+  "instructions.guide": {
+    "zh": "视频教程",
+    "en": "Video guide",
+    "ja": "動画ガイド"
+  },
+  "instructions.pending": {
+    "zh": "教程二维码待更新",
+    "en": "Tutorial QR code coming soon",
+    "ja": "チュートリアルのQRコードは準備中です"
+  },
+  "instructions.scan": {
+    "zh": "扫描二维码查看视频教程",
+    "en": "Scan the QR code to watch the video guide",
+    "ja": "QRコードを読み取って動画ガイドをご覧ください"
+  }
+}
