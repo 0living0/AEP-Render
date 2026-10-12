@@ -7,8 +7,8 @@ using System.Runtime.InteropServices;
 using System.Threading;
 using System.Windows.Forms;
 
-[assembly: AssemblyVersion("3.8.9.0")]
-[assembly: AssemblyFileVersion("3.8.9.0")]
+[assembly: AssemblyVersion("3.8.10.0")]
+[assembly: AssemblyFileVersion("3.8.10.0")]
 
 namespace AepBatchRenderer
 {

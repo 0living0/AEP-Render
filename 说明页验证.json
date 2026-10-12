@@ -1,9 +1,7 @@
 {
-  "version": "3.8.9",
+  "version": "3.8.10",
   "build": "passed",
   "localization": "302 entries checked",
-  "uiUnitChecks": 162,
-  "browser": "Microsoft Edge headless; real HTML/CSS/JS with mocked native message bridge",
   "languages": [
     "zh",
     "en",
@@ -13,8 +11,7 @@
     "dark",
     "light"
   ],
-  "keyboard": "ArrowLeft/ArrowRight/Home/End passed",
-  "qr": "embedded image, missing/invalid fallback passed",
-  "runtimeErrors": [],
-  "renderingBehavior": "unchanged; native render backend not modified"
+  "qr": "embedded image visible in each language; headings and captions absent; decode verification recorded in Tutorial_QR_Verification.json",
+  "script": "6.7 syntax and exact vector rendering passed for all three language matrices",
+  "runtimeErrors": []
 }
