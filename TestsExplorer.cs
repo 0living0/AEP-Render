@@ -60,10 +60,11 @@ namespace AepBatchRenderer
                 var reopened=new ExplorerModel(); Check(reopened.Settings.Folder==folder&&reopened.Selected.Count==7,"reopen restores folder and checked files");
                 bool failed=false; try { model.Navigate(Path.Combine(root,"missing")); } catch(IOException) { failed=true; } Check(failed&&Store.Load("settings.json",new Preferences()).Folder==folder,"invalid address cannot replace saved location");
                 model.SetMany(model.Files.Select(f=>f.FullPath),false); Check(model.Selected.Count==0,"clear-all explicitly clears checked files");
-                model.Toggle(model.Files.Single(f=>f.DisplayName=="s01c001_t03").FullPath); model.Toggle(model.Files.Single(f=>f.DisplayName=="s01c002_t02").FullPath);
+                model.Toggle(model.Files.Single(f=>f.DisplayName=="S1E10_s01c001_t03").FullPath); model.Toggle(model.Files.Single(f=>f.DisplayName=="S1E10_s01c002_t02").FullPath);
                 Console.WriteLine("SUCCESS: "+checks+" explorer checks"); return 0;
             }
             catch(Exception e) { Console.Error.WriteLine(e); return 1; }
         }
     }
 }
+

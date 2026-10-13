@@ -29,7 +29,10 @@ namespace AepBatchRenderer
                 Func<string,AepFileItem> fixture=name=> { string path=Path.Combine(root,name+".aep"); TestFixtures.WriteProject(path); return AepFileItem.FromPath(path); };
                 var prefs=new Preferences { Aerender=self }; prefs.Options.Retries=1; prefs.Options.RetryDelay=1;
                 prefs.Engines.Add(EngineCatalog.Inspect(self)); prefs.EnginesInitialized=true; Store.Save("settings.json",prefs);
-                Assert(fixture("TYMSZS_S1E10_s01c001_t02").DisplayName=="s01c001_t02","original shot display preserved");
+                Assert(fixture("TYMSZS_S1E10_s01c001_t02").DisplayName=="S1E10_s01c001_t02","display removes only the first segment");
+                Assert(fixture("TYMSZS_S1E11_s04c091a_t02").DisplayName=="S1E11_s04c091a_t02","letter suffix preserved without shot parsing");
+                Assert(fixture("s04c127_t02").DisplayName=="t02","first separator used regardless of naming format");
+                Assert(fixture("plain name").DisplayName=="plain name","name without separator preserved");
                 Assert(fixture("TYMSZS_S1E10_s01c001_t10").Version==10,"numeric version sorting");
                 var q=new RenderQueue(); Assert(q.Paused,"startup never auto-renders");
                 var success=fixture("success 中文 空格"); Assert(q.Add(new[]{success},prefs)==1,"enqueue"); Assert(q.Add(new[]{success},prefs)==0,"duplicate active project rejected");
@@ -115,3 +118,4 @@ namespace AepBatchRenderer
         private static void WaitUntil(Func<bool> test,int timeout) { var t=Stopwatch.StartNew(); while(!test()) { if(t.ElapsedMilliseconds>timeout) throw new Exception("Test timed out"); Thread.Sleep(40); } }
     }
 }
+

@@ -10,10 +10,6 @@ namespace AepBatchRenderer
             @"^(?<group>.+)_(?<tag>[a-zA-Z]+)(?<version>\d+)$",
             RegexOptions.Compiled | RegexOptions.CultureInvariant);
 
-        private static readonly Regex ShotPattern = new Regex(
-            @"(?<shot>s\d+c\d+_.+)$",
-            RegexOptions.Compiled | RegexOptions.IgnoreCase | RegexOptions.CultureInvariant);
-
         public string FullPath { get; private set; }
         public string FileName { get; private set; }
         public string DisplayName { get; private set; }
@@ -30,7 +26,7 @@ namespace AepBatchRenderer
             FileInfo info = new FileInfo(path);
             string stem = Path.GetFileNameWithoutExtension(info.Name);
             Match versionMatch = VersionPattern.Match(stem);
-            Match shotMatch = ShotPattern.Match(stem);
+            int separator = stem.IndexOf('_');
 
             string groupKey = stem;
             int version = -1;
@@ -50,7 +46,7 @@ namespace AepBatchRenderer
             {
                 FullPath = info.FullName,
                 FileName = info.Name,
-                DisplayName = shotMatch.Success ? shotMatch.Groups["shot"].Value : stem,
+                DisplayName = separator >= 0 ? stem.Substring(separator + 1) : stem,
                 GroupKey = groupKey.ToLowerInvariant(),
                 Version = version,
                 VersionText = versionText,
@@ -70,3 +66,4 @@ namespace AepBatchRenderer
         }
     }
 }
+
